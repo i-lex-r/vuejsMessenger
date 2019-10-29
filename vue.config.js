@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === "production" ? "/vuejsMessenger/" : "/"
+  publicPath:
+    process.env.NODE_ENV === "production" ? "/vuejsMessenger/dist/" : "/"
 };
