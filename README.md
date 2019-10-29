@@ -1,12 +1,15 @@
 # Task: make a simple list of messages.
 
-This is the test project to demonstrate develop "messenger mockup" with vue.js (according to component approach and "bem").
+This is the test project to demonstrate develop "messenger mockup" with vue.js.
 
 Project build is located [here](https://i-lex-r.github.io/vuejsMessenger/dist/).
 
 ### Layout: https://www.figma.com/file/VUgBI3xtcU56EDR4u7uJVK/Test
 
+![layout preview](/public/preview.png)
+
 ### General requirements
+
 - The application must be implemented on Vue JS using Vuex or similar
 - Support routing (displaying a specific dialog by ID)
 - When you open a dialog, an animated loader (loading animation) is displayed on the right side with a list of messages
@@ -16,7 +19,6 @@ Project build is located [here](https://i-lex-r.github.io/vuejsMessenger/dist/).
 
 **Important!** Create an application in the best traditions of the component approach.
 Imagine that the application will further develop and acquire different functionality.
-
 
 ```
 Sample data:
