@@ -6,7 +6,7 @@ Project build is located [here](https://i-lex-r.github.io/vuejsMessenger/dist/).
 
 ### Layout: https://www.figma.com/file/VUgBI3xtcU56EDR4u7uJVK/Test
 
-![layout preview](/public/preview.png)
+![layout preview](/public/preview.jpg)
 
 ### General requirements
 
